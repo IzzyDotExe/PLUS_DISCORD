@@ -2,7 +2,7 @@
 Developed by [IzzyDotexe](https://github.com/IzzyDotExe)
 
 ## How it works
-This discord bot is integrated directly into the source for the Emulator, and thus can't be separated from it. It's built specifically to work with it. 
+This discord bot is integrated directly into the source for the Emulator, and thus should not be separated from it. It's built specifically to work with it. 
 
 The first thing you need to do is create a bot account for it to run on. To get started head to the [Discord Developer Portal](https://discord.com/developers/applications) and create an application.
 
